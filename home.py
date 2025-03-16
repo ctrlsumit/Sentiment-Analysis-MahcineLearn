@@ -396,15 +396,15 @@ def display_main():
         <div class="cont-box">
             <div class="title">Sentimental Analysis</div>
             <div class="cont">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus vitae quibusdam magni fuga expedita sapiente nam nihil adipisci itaque facere! Sint quia magnam fugiat nisi quaerat quidem, aperiam tempora ab autem! Illum amet libero, maiores ullam voluptatibus voluptate maxime sequi nesciunt veritatis consequuntur obcaecati possimus!
+                We can use sentiment analysis to monitor that product’s reviews. Sentiment analysis is also efficient to use when there is a large set of unstructured data, and we want to classify that data by automatically tagging it. Net Promoter Score (NPS) surveys are used extensively to gain knowledge of how a customer perceives a product or service. Sentiment analysis also gained popularity due to its feature to process large volumes of NPS responses and obtain consistent results quickly.
             </div>
             <div class="buttonSec">
-                <button>Analyze Text</button>
-                <button>Analyze Chats</button>
+                <a href="/">Analyze Text</a>
+                <a href="/">Analyze Chats</a>
             </div>
         </div>
         <div class="picbox">
-            <img src="./sentiment.jpeg" alt="random image">
+            <img src="https://www.scambs.gov.uk/media/16544/customer-feedback.png" alt="random image">
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -413,7 +413,7 @@ def display_main():
     <div class="cards">
         <div class="card1">
             <div class="image">
-                <img src="./chart.jpg" alt="rand">
+                <img src="https://www.diariopanorama.com/fotos/notas/2022/09/25/emojis-426768-130329.jpg" alt="rand">
             </div>
             <div class="cont">
                 <div class="head">Build Charts</div>
@@ -422,7 +422,7 @@ def display_main():
         </div>
         <div class="card2">
             <div class="image">
-                <img src="./wordCloud.jpg" alt="rand">
+                <img src="https://i.pinimg.com/736x/f2/bd/95/f2bd9589ca8987a49a36e859b0cda2d4.jpg" alt="rand">
             </div>
             <div class="cont">
                 <div class="head">Build Charts</div>
@@ -431,7 +431,7 @@ def display_main():
         </div>
         <div class="card3">
             <div class="image">
-                <img src="/sentiment.jpeg" alt="rand">
+                <img src="https://th.bing.com/th/id/OIP.uJpWdg3Kj_9sAPx_KaOnKAAAAA?rs=1&pid=ImgDetMain" alt="rand">
             </div>
             <div class="cont">
                 <div class="head">Build Charts</div>
