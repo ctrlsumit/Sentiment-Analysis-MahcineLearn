@@ -11,12 +11,6 @@ import io
 import base64
 
 # Set page configuration
-st.set_page_config(
-    page_title="Chatalyze - Text Sentiment Analysis",
-    page_icon="✨",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
 
 # Function to load Lottie animations
 def load_lottieurl(url: str):

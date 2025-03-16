@@ -1,12 +1,6 @@
 import streamlit as st
 from streamlit.components.v1 import html
 
-st.set_page_config(
-    page_title="Sentalyze - Sentiment Analysis",
-    page_icon="✨",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
 
 def load_css():
     st.markdown("""
@@ -416,7 +410,7 @@ def display_main():
                 <img src="https://www.diariopanorama.com/fotos/notas/2022/09/25/emojis-426768-130329.jpg" alt="rand">
             </div>
             <div class="cont">
-                <div class="head">Build Charts</div>
+                <div class="head">Emoji Usage</div>
                 <div class="descrip">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit molestias quia quam rerum nobis modi incidunt eum assumenda eos, harum numquam magnam dolorum a pariatur impedit! Sint doloribus soluta quos!</div>
             </div>
         </div>
@@ -434,7 +428,7 @@ def display_main():
                 <img src="https://th.bing.com/th/id/OIP.uJpWdg3Kj_9sAPx_KaOnKAAAAA?rs=1&pid=ImgDetMain" alt="rand">
             </div>
             <div class="cont">
-                <div class="head">Build Charts</div>
+                <div class="head">Word Cloud</div>
                 <div class="descrip">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit molestias quia quam rerum nobis modi incidunt eum assumenda eos, harum numquam magnam dolorum a pariatur impedit! Sint doloribus soluta quos!</div>
             </div>
         </div>
@@ -447,7 +441,7 @@ def display_footer():
         <div class="footer-row">
             <div class="footer-col about">
                 <h3>About Us</h3>
-                <p>SentiScan provides advanced sentiment analysis tools for businesses and individuals to understand the emotional context of text data. Our mission is to help you make informed decisions through powerful text analysis.</p>
+                <p>Sentalyze provides advanced sentiment analysis tools for businesses and individuals to understand the emotional context of text data. Our mission is to help you make informed decisions through powerful text analysis.</p>
             </div>
             <div class="footer-col links">
                 <h3>Quick Links</h3>
@@ -499,7 +493,7 @@ def display_footer():
             </div>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2025 SentiScan. All rights reserved.</p>
+            <p>&copy; 2025 Sentalyze. All rights reserved.</p>
             <div class="footer-legal">
                 <a href="#privacy">Privacy Policy</a>
                 <a href="#terms">Terms of Service</a>
