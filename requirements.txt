@@ -9,3 +9,4 @@ plotly
 urlextract
 wordcloud
 emoji
+seaborn
