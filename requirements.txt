@@ -10,3 +10,4 @@ urlextract
 wordcloud
 emoji
 seaborn
+transformers
