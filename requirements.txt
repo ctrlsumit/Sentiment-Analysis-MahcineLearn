@@ -5,3 +5,4 @@ pandas==1.5.2
 scikit-learn==1.2.0
 streamlit==1.43.2
 streamlit-lottie==0.0.5
+plotly
