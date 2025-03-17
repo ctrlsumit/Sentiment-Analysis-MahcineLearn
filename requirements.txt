@@ -8,3 +8,4 @@ streamlit-lottie==0.0.5
 plotly
 urlextract
 wordcloud
+emoji
