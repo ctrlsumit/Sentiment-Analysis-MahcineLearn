@@ -11,3 +11,4 @@ wordcloud
 emoji
 seaborn
 transformers
+torch
